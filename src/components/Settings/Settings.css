@@ -1,0 +1,19 @@
+.settings-links {
+    display: flex;
+    flex-direction: column;
+    width: 95vw;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px 0 10px 20px;
+    margin: 0 0 20px 20px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.outlet {
+    margin: 20px 0 0 20px;
+}

@@ -1,0 +1,14 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    padding: 55px 0px;
+}
+
+.home-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
